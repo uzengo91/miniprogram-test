@@ -97,7 +97,7 @@
     </view>
   </view>
   <view class="goods-bottom-operation">
-    <buy-bar
+    <!-- <buy-bar
       jumpArray="{{jumpArray}}"
       soldout="{{soldout}}"
       isStock="{{isStock}}"
@@ -107,7 +107,7 @@
       bind:toNav="toNav"
       bind:toBuyNow="buyItNow"
       class="goods-details-card"
-    />
+    /> -->
   </view>
   <goods-specs-popup
     id="goodsSpecsPopup"
