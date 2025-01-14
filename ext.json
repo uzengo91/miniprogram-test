@@ -1,0 +1,16 @@
+{
+  "extEnable": true,
+  "extAppid": "wx4f5bb3e525f20485",
+  "directCommit": false,
+  "ext": {},
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Demo",
+    "navigationBarTextStyle": "black"
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  }
+}
